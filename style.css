@@ -1,0 +1,12 @@
+form { 
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 28rem;
+    margin-inline: auto;
+}
+
+p {
+    max-width: 28rem;
+    margin-inline: auto;
+}
